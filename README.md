@@ -1,5 +1,7 @@
 # TravelSense API (NestJS)
 
+Frontend Repository: The Next.js web interface for this project can be found here: https://github.com/JisanInfosec/TravelSense-Frontend
+
 See the [root README](../README.md) for setup, test accounts and architecture.
 
 ## Scripts
